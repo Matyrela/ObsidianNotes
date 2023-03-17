@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"<p style=\"text-align:center;\">Arquitectura</p>","id":"11850219cfe47e21","x":-120,"y":100,"width":250,"height":67},
+		{"id":"d33a5132bf1b0efb","x":-120,"y":-100,"width":250,"height":60,"type":"text","text":"<p style=\"text-align:center;\">Lenguajes de alto nivel</p>"},
+		{"id":"e7e7529862224e48","x":-120,"y":0,"width":250,"height":60,"type":"text","text":"<p style=\"text-align:center;\">Sistema Operativo</p>"},
+		{"id":"817d9b59ae12c0a2","x":-120,"y":-200,"width":250,"height":60,"type":"text","text":"<p style=\"text-align:center;\">Aplicaciones</p>\n"}
+	],
+	"edges":[
+		{"id":"c84f0a0bdb3111ef","fromNode":"11850219cfe47e21","fromSide":"top","toNode":"e7e7529862224e48","toSide":"bottom"},
+		{"id":"c0d2838c7e5f4174","fromNode":"e7e7529862224e48","fromSide":"top","toNode":"d33a5132bf1b0efb","toSide":"bottom"},
+		{"id":"474f84be768a6e76","fromNode":"d33a5132bf1b0efb","fromSide":"top","toNode":"817d9b59ae12c0a2","toSide":"bottom"}
+	]
+}

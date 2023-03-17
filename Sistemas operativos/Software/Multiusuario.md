@@ -1,0 +1,1 @@
+Es una caracteristica que algunos sistemas operativos tienen, haciendo que gracias a como estan administradas las particiones del disco, genera un sistema de autoridad que hace que ciertos archivos sean de X usuario.
