@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas operativos/Software/Arranque.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas operativos/Software/Arranque.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas operativos/Software/Arranque.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas operativos/Software/Arranque.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   "active": "f9d44801b835421e",
   "lastOpenFiles": [
     "Ordenar....md",
+    "Sistemas operativos/Niveles en la computacion.canvas",
     "Sistemas operativos/Software/Arranque.md",
     "Sistemas operativos/Software/Multitarea.md",
     "Sistemas operativos/Software/Sistema operativo.md",
@@ -178,7 +179,6 @@
     "Sistemas operativos/Software/Sistemas Operativos/Unix.md",
     "Sistemas operativos/Software/Multiusuario.md",
     "Sistemas operativos/Software/Sistemas Operativos/Minix.md",
-    "Sistemas operativos/Niveles en la computacion.canvas",
     "Sistemas operativos/Software/Sistemas Operativos/MS-DOS.md",
     "Sistemas operativos/Software",
     "Sistemas operativos"
