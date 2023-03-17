@@ -1,4 +1,4 @@
-Repositorio con definiciones para sistemas operativos, 
+Repositorio con definiciones para sistemas operativos
 
 ## Intrucciónes 
 
